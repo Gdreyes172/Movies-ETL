@@ -1,4 +1,3 @@
 # Git ignore files
 config.py
-movies_metadata.csv
 ratings.csv
