@@ -11,5 +11,11 @@
 ## Our work was able to deduce the ratings specific to the 6200+ movies. Our team fills confident this should provide plenty of data to help create a strong algorithm to help Amazing Prime.
 
 ---
+![Figure_1](https://github.com/Gdreyes172/Movies-ETL/blob/main/Resources/movies_query.png)
+### Movies results on SQL
+---
+![Figure_2(https://github.com/Gdreyes172/Movies-ETL/blob/main/Resources/ratings_query.png)
+### Ratings results on SQL
+---
 # Summary:
 ## The data was ultimately transferred to SQL tables for Amazing Prime to inspect and present at their event. 
