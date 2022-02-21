@@ -14,7 +14,7 @@
 ![Figure_1](https://github.com/Gdreyes172/Movies-ETL/blob/main/Resources/movies_query.png)
 ### Movies results on SQL
 ---
-![Figure_2(https://github.com/Gdreyes172/Movies-ETL/blob/main/Resources/ratings_query.png)
+![Figure_2](https://github.com/Gdreyes172/Movies-ETL/blob/main/Resources/ratings_query.png)
 ### Ratings results on SQL
 ---
 # Summary:
